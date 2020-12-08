@@ -12,7 +12,7 @@
             "required": true
         },
         "MODMAIL_GUILD_ID": {
-            "description": "The ID of the discord server where the threads channels should be created (receiving server). Default to GUILD_ID.",
+            "description": "775302036349648907",
             "required": true
         },
         "OWNERS": {
